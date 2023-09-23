@@ -1,0 +1,50 @@
+*{
+background-color: #393E46;
+}
+body{
+    background-color: #393E46;
+}
+#title{
+    text-align: center;
+}
+#title h1{
+    font-family: 'Lobster';
+    text-shadow: 5px 0 #232931;
+    font-size: 8rem;
+    color: #4ECCA3;
+    font-weight:bolder;
+    margin-top: 50px;
+}
+#title p{
+    color: #4ECCA3;
+    font-family: 'Lobster';
+    font-size: 2rem;
+    margin-top: 100px;
+    display:inline-block;
+   margin-left: 150px;
+   margin-right: 150px;
+}
+#dice {
+    text-align: center;
+    
+}
+
+.player1,.player2 {
+    display: inline-block;
+   margin-left: 50px;
+   margin-right: 50px;
+}
+#footer {
+    color: #EEEEEE;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+    position: absolute;
+    bottom: 50px;
+    width: 100%;
+  
+}
+
+#title img{
+    mix-blend-mode: color;
+    width: 100px;
+}
